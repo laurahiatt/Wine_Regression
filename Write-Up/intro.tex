@@ -5,15 +5,31 @@
 \label{sec:intro}
 
 Given a set of data points, regression in its simplest form attempts to 
-determine a line of best fit describing the relationship between an
+determine a line of best fit which describes the relationship between an
 input and an output variable. However, a straight line may fail to
 accurately represent the data. A better representation may be through
+<<<<<<< HEAD
 the form of a higher order polynomial. In our experiment, we utilize
 a random search k-fold cross-validation implementation of stochastic
 average gradient descent to determine the relationship between 11 attributes of wine,
 as described in Figure \ref{tab:attributes}, and a quality score as determined by wine experts
-between one and ten. The quality value being a sensory input based on taste
+between one and ten, where the higher the score, the better the quality.
+The quality value being a sensory input based on taste
 and the 11 attributes ones of scientific measure.
+=======
+the form of a higher order polynomial. There are various approaches 
+to determining the best mathematical representation for any data set.
+
+In our experiment, we utilize a random search k-fold cross-validation implementation of stochastic
+average gradient descent to determine a relationship between 11 attributes of wine,
+as described in Figure \ref{tab:attributes}, and a quality score. The quality value being a sensory input based on taste between one and ten as attributed by wine experts. A score of one represents a lower quality wine, while a score of ten distinguishes the highest wine samples. The 11 attributes are ones of scientific measure.
+
+The evaluation runs two separate tests on the red and white wine 
+selections of Portugese "Vinho Verde" wine. Previous experiments 
+have been run on this same data set...
+
+In the remainder of this paper, 
+>>>>>>> origin/master
 
 
 
