@@ -2,15 +2,36 @@
 \section{Background}
 \label{sec:background}
 
-
-\subsection{Regression Solvers}
-
-Stochastic gradient descent is a widely used algorithm in the field of machine
-learning and thus there are a wide array of off-the-self regression solvers
-available for use. Examples include software such as Matlab or, as used in
-this experiment, the scikit-learn library for Python.
-
+Stochastic gradient descent is a common algorithm in the field of machine
+learning and thus, there are multiple off-the-self regression solvers which
+utilize this approach available for use. Examples include software 
+such as Matlab or, as used in this experiment, the scikit-learn library for Python.
+\\ \\
 The scikit-learn library provides variations of gradient descent along with 
+simpler methods such as ordinary least squares. What these methods all
+have in common is that they share a cost-function. Cost-functions vary from
+model to model, but they all penalize errors made in predictions. The predictions
+are made with a hypothesis function, $h(\theta)$, which varies from model
+to model. The value of any prediction can then be 
+\\ \\
+The particular regression solver used in this experiment is a RandomizedSearchCV 
+with a Ridge model. In other words, we invoke a randomized search of hyper parameters, "free variables", using a cross-validation scheme under the constraints of ridge regression. 
+Details of these particular features will now be further discussed.
+\\
+subsection {Cost}
+
+
+
+
+\\
+\subsection{Regularization}
+
+
+
+\subsection{Grid-Search versus Randomized-Search}
+
+\subsection{Cross-Validation}
+
 
 Describe any background information that the reader would need to know
 to understand your work. You do not have to explain algorithms or
