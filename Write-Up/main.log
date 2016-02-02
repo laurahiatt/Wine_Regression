@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2014.5.25)  27 JAN 2016 18:30
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2014.5.25)  27 JAN 2016 18:58
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -527,7 +527,32 @@ Underfull \hbox (badness 10000) in paragraph at lines 7--24
  []
 
 ) (./background.tex
-Underfull \hbox (badness 10000) in paragraph at lines 32--42
+Underfull \hbox (badness 1389) in paragraph at lines 5--17
+\OT1/txr/m/n/10 Stochastic gra-di-ent de-scent is a com-mon al-go-rithm in
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 5--17
+
+ []
+
+
+Underfull \hbox (badness 1584) in paragraph at lines 5--17
+\OT1/txr/m/n/10 The scikit-learn li-brary pro-vides vari-a-tions of gra-di-ent
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 17--24
+
+ []
+
+
+Underfull \hbox (badness 3407) in paragraph at lines 17--24
+\OT1/txr/m/n/10 The par-tic-u-lar re-gres-sion solver used in this ex-per-i-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 38--48
 
  []
 
@@ -536,33 +561,33 @@ Underfull \hbox (badness 10000) in paragraph at lines 32--42
 
 
 ]
-LaTeX Font Info:    Try loading font information for OMS+txr on input line 55.
+LaTeX Font Info:    Try loading font information for OMS+txr on input line 61.
 
 (/usr/local/texlive/2014/texmf-dist/tex/latex/txfonts/omstxr.fd
 File: omstxr.fd 2000/12/15 v3.1
 )
 LaTeX Font Info:    Font shape `OMS/txr/m/n' in size <10> not available
-(Font)              Font shape `OMS/txsy/m/n' tried instead on input line 55.
+(Font)              Font shape `OMS/txsy/m/n' tried instead on input line 61.
 
-Underfull \hbox (badness 10000) in paragraph at lines 93--94
+Underfull \hbox (badness 10000) in paragraph at lines 99--100
 
  []
 
 
-Underfull \hbox (badness 1769) in paragraph at lines 98--105
+Underfull \hbox (badness 1769) in paragraph at lines 104--111
 \OT1/txr/m/n/10 ing what you want to pro-duce[]:$\OT1/txtt/m/n/10 http : / / de
 texify .
  []
 
 ) (./experiments.tex) (./results.tex
-<figs/file_extensions.png, id=13, 273.72263pt x 299.9205pt>
+<figs/file_extensions.png, id=15, 273.72263pt x 299.9205pt>
 File: figs/file_extensions.png Graphic file (type png)
 
 <use figs/file_extensions.png>
 Package pdftex.def Info: figs/file_extensions.png used on input line 43.
 (pdftex.def)             Requested size: 237.7689pt x 260.52599pt.
-) (./conclusion.tex) (./contributions.tex)
-(./ack.tex) [2]
+) (./conclusion.tex) (./contributions.tex
+[2]) (./ack.tex)
 No file main.bbl.
 [3
 
@@ -570,7 +595,7 @@ No file main.bbl.
 Here is how much of TeX's memory you used:
  4606 strings out of 493117
  62222 string characters out of 6135433
- 133392 words of memory out of 5000000
+ 134392 words of memory out of 5000000
  7888 multiletter control sequences out of 15000+600000
  43403 words of font info for 101 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -585,7 +610,7 @@ r/local/texlive/2014/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/te
 xlive/2014/texmf-dist/fonts/type1/urw/times/utmbi8a.pfb></usr/local/texlive/201
 4/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/local/texlive/2014/texmf-di
 st/fonts/type1/urw/times/utmri8a.pfb>
-Output written on main.pdf (3 pages, 85606 bytes).
+Output written on main.pdf (3 pages, 86930 bytes).
 PDF statistics:
  52 PDF objects out of 1000 (max. 8388607)
  36 compressed objects within 1 object stream

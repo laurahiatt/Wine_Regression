@@ -11,8 +11,10 @@ The scikit-learn library provides variations of gradient descent along with
 simpler methods such as ordinary least squares. What these methods all
 have in common is that they share a cost-function. Cost-functions vary from
 model to model, but they all penalize errors made in predictions. The predictions
-are made with a hypothesis function, $h(\theta)$, which varies from model
-to model. The value of any prediction can then be 
+are made with a hypothesis function, $h(\theta)$, specific the data under
+investigation. The value of any prediction can then be used in a cost function
+to determine the quality of the model. Only penalizing for error, the cost function
+is represented as $$J(\vec{\theta}) = \frac{1}{2m} [\sum_{i = 1}^{m} (y^(i) - h(\theta))^2]$$
 \\ \\
 The particular regression solver used in this experiment is a RandomizedSearchCV 
 with a Ridge model. In other words, we invoke a randomized search of hyper parameters, "free variables", using a cross-validation scheme under the constraints of ridge regression. 
@@ -21,9 +23,9 @@ Details of these particular features will now be further discussed.
 subsection {Cost}
 
 
+dkfjdkfj
 
 
-\\
 \subsection{Regularization}
 
 
