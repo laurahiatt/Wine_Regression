@@ -1,0 +1,25 @@
+\begin{thebibliography}{}
+
+\bibitem[\protect\citeauthoryear{P.~Cortez and Reis.}{2009}]{wine}
+P.~Cortez, A.~Cerdeira, F. A. T.~M., and Reis., J.
+\newblock 2009.
+\newblock Modeling wine preferences by data mining from physicochemical
+  properties.
+\newblock {\em In Decision Support Systems} 47(4):547--553.
+
+\bibitem[\protect\citeauthoryear{P.~Cortez}{2009}]{datamining}
+P.~Cortez, J.~Teixeira, A. C. F. A. T. M. J.~R.
+\newblock 2009.
+\newblock Using data mining for wine quality assessment.
+\newblock {\em DBLP}.
+
+\bibitem[\protect\citeauthoryear{Pedregosa \bgroup et al\mbox.\egroup
+  }{2011}]{scikit}
+Pedregosa, F.; Varoquaux, G.; Gramfort, A.; Michel, V.; Thirion, B.; Grisel,
+  O.; Blondel, M.; Prettenhofer, P.; Weiss, R.; Dubourg, V.; Vanderplas, J.;
+  Passos, A.; Cournapeau, D.; Brucher, M.; Perrot, M.; and Duchesnay, E.
+\newblock 2011.
+\newblock Skikit-learn: Machine learning in python.
+\newblock {\em JMLP} 12:2825--2830.
+
+\end{thebibliography}

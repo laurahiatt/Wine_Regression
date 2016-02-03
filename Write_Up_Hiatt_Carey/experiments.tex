@@ -1,0 +1,32 @@
+
+\section{Experiments}
+\label{sec:expts}
+
+Our experiment was designed to develop a model which could predict
+quality ratings of Portugese "Vinho Verde" wine based on the 11 features
+depicted in Fig \ref{tab:attributes}. All the data points provided by \cite{wine} 
+were restricted to two categories: white wine and red wine. Regression tests were
+run on these two categories separately. \\
+
+ As stated earlier, we chose to investigate the model produced by 
+ scikit-learn's RandomizedSearchCV model using ridge regression. 
+ The Ridge model performed it's computational routines using Stochastic
+ Average Gradient descent. The drawback of this form of gradient descent 
+ is that without similarly scaled data, fast convergence on a model is not
+ guaranteed \cite{scikit}. A common practice of feature scaling, or normalizing, is used 
+ to fix this problem. To combat this potential error, all feature data was normalized 
+ before testing began, as stated earlier. \\
+ 
+ The estimator used by our final model was, of course, a Ridge object. 
+ We specifically looked at the outcomes of different magnitudes of
+ $\alpha$ ranging from $10^{-7}$ to $10^{3}$. Rather than using the default
+ 3-fold cross-validation, we implemented 10-fold cross-validation. A larger 
+ value of k, in k-fold cross-validation reduces the variability of the test data.
+ Our reasoning was that while the model would have less data to learn
+ on at a time, the model produced would be less susceptible to overfitting
+ the test data. \\
+ 
+On the other end of the spectrum, we also implemented a Lasso regression test. Lasso Regression does not utilize stochastic gradient descent. However, the model still requires an $\alpha$ value to multiply by the L1 score to penalize the cost function. The alphas tested for the Lasso model covered a much different range, requiring much lower $\alpha$ values. The lasso values ranged from $10^{-16}$ to $10^{0}$.\\
+ 
+The data reported are the averages computed for each set of 
+parameter values over 500 trials.

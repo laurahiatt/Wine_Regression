@@ -1,0 +1,18 @@
+
+\section{Data Preparation}
+\label{sec:dataprep}
+
+Before we ran our experiments, we added features to the given data 
+that were the results of squaring and cubing the values of of the 11
+objective features for a total of 34 possible $\theta$ values including
+ the addition of an $x_{2}$-intercept. Thus, our models could
+ be polynomials up to the third degree. \\
+
+Additionally, using built-in functions in the scikit-learn
+and numPy packages, our data was also normalized before the
+experiments were undertaken. \\
+
+Data was separated into training and validation sets using $80\%$
+of the provided data points. A hold-out set containing $20\%$ of
+the wine scores was used as a test set to report all errors and
+scores. 

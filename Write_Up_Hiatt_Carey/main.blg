@@ -1,0 +1,71 @@
+This is BibTeX, Version 0.99d (TeX Live 2014)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: main.aux
+The style file: aaai.bst
+Database file #1: project1.bib
+Too many commas in name 1 of "P. Cortez, J. Teixeira, A. Cerdeira, F. Almeida, T. Matos, J. Reis" for entry datamining
+while executing---line 1139 of file aaai.bst
+Too many commas in name 1 of "P. Cortez, J. Teixeira, A. Cerdeira, F. Almeida, T. Matos, J. Reis" for entry datamining
+while executing---line 1139 of file aaai.bst
+Too many commas in name 1 of "P. Cortez, J. Teixeira, A. Cerdeira, F. Almeida, T. Matos, J. Reis" for entry datamining
+while executing---line 1139 of file aaai.bst
+Too many commas in name 1 of "P. Cortez, J. Teixeira, A. Cerdeira, F. Almeida, T. Matos, J. Reis" for entry datamining
+while executing---line 1139 of file aaai.bst
+Too many commas in name 1 of "P. Cortez, J. Teixeira, A. Cerdeira, F. Almeida, T. Matos, J. Reis" for entry datamining
+while executing---line 1139 of file aaai.bst
+Too many commas in name 1 of "P. Cortez, J. Teixeira, A. Cerdeira, F. Almeida, T. Matos, J. Reis" for entry datamining
+while executing---line 1139 of file aaai.bst
+Too many commas in name 1 of "P. Cortez, A. Cerdeira, F. Almeida, T. Matos and J. Reis." for entry wine
+while executing---line 1139 of file aaai.bst
+Too many commas in name 1 of "P. Cortez, A. Cerdeira, F. Almeida, T. Matos and J. Reis." for entry wine
+while executing---line 1139 of file aaai.bst
+Too many commas in name 1 of "P. Cortez, A. Cerdeira, F. Almeida, T. Matos and J. Reis." for entry wine
+while executing---line 1187 of file aaai.bst
+Too many commas in name 1 of "P. Cortez, J. Teixeira, A. Cerdeira, F. Almeida, T. Matos, J. Reis" for entry datamining
+while executing---line 1187 of file aaai.bst
+Too many commas in name 1 of "P. Cortez, J. Teixeira, A. Cerdeira, F. Almeida, T. Matos, J. Reis" for entry datamining
+while executing---line 1187 of file aaai.bst
+Too many commas in name 1 of "P. Cortez, J. Teixeira, A. Cerdeira, F. Almeida, T. Matos, J. Reis" for entry datamining
+while executing---line 1187 of file aaai.bst
+You've used 3 entries,
+            2568 wiz_defined-function locations,
+            592 strings with 5183 characters,
+and the built_in function-call counts, 1512 in all, are:
+= -- 144
+> -- 103
+< -- 0
++ -- 38
+- -- 38
+* -- 140
+:= -- 271
+add.period$ -- 15
+call.type$ -- 3
+change.case$ -- 31
+chr.to.int$ -- 3
+cite$ -- 3
+duplicate$ -- 41
+empty$ -- 79
+format.name$ -- 42
+if$ -- 287
+int.to.chr$ -- 1
+int.to.str$ -- 0
+missing$ -- 3
+newline$ -- 21
+num.names$ -- 9
+pop$ -- 24
+preamble$ -- 1
+purify$ -- 34
+quote$ -- 0
+skip$ -- 33
+stack$ -- 0
+substring$ -- 63
+swap$ -- 6
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 24
+warning$ -- 0
+while$ -- 8
+width$ -- 4
+write$ -- 43
+(There were 12 error messages)

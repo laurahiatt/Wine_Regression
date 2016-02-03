@@ -1,0 +1,984 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=prv_main 2016.1.28)  28 JAN 2016 22:26
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**&prv_main _region_.tex
+(./_region_.tex
+LaTeX2e <2014/05/01>
+Babel <3.9k> and hyphenation patterns for 78 languages loaded.
+CUSTOMISED FORMAT. Preloaded files:
+        .
+ article.cls    2007/10/19 v1.4h Standard LaTeX document class
+  size10.clo    2007/10/19 v1.4h Standard LaTeX file (size option)
+    aaai.sty    
+   times.sty    2005/04/12 PSNFSS-v9.2a (SPQR) 
+  helvet.sty    2005/04/12 PSNFSS-v9.2a (WaS) 
+  keyval.sty    2014/05/08 v1.15 key=value parser (DPC)
+ courier.sty    2005/04/12 PSNFSS-v9.2a (WaS) 
+ amsmath.sty    2013/01/14 v2.14 AMS math features
+ amstext.sty    2000/06/29 v2.01
+  amsgen.sty    1999/11/30 v2.0
+  amsbsy.sty    1999/11/29 v1.2d
+  amsopn.sty    1999/12/14 v2.01 operator names
+  amsthm.sty    2004/08/06 v2.20
+graphicx.sty    2014/04/25 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
+graphics.sty    2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+    trig.sty    1999/03/16 v1.09 sin cos tan (DPC)
+graphics.cfg    2010/04/23 v1.9 graphics configuration of TeX Live
+  pdftex.def    2011/05/27 v0.06d Graphics/color for pdfTeX
+infwarerr.sty    2010/04/08 v1.3 Providing info/warning/error messages (HO)
+ ltxcmds.sty    2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
+moreverb.sty    2008/06/03 v2.3a `more' verbatim facilities
+verbatim.sty    2003/08/22 v1.5q LaTeX2e package for verbatim enhancements
+subfigure.sty    2002/03/15 v2.1.5 subfigure package
+subfigure.cfg
+  epsfig.sty    1999/02/16 v1.7a (e)psfig emulation (SPQR)
+ txfonts.sty    2008/01/22 v3.2.1
+algpseudocode.sty    
+  ifthen.sty    2001/05/26 v1.1c Standard LaTeX ifthen package (DPC)
+algorithmicx.sty    2005/04/27 v1.2 Algorithmicx
+multirow.sty    
+multicol.sty    2014/04/23 v1.8e multicolumn formatting (FMi)
+     url.sty    2013/09/16  ver 3.4  Verb mode for urls, etc.
+tablefootnote.sty    2014/01/26 v1.1c Table foot notes (HMM)
+letltxmacro.sty    2010/09/02 v1.4 Let assignment for LaTeX macros (HO)
+ xifthen.sty    2009/04/17 v1.3 Extended ifthen features
+    etex.sty    1998/03/26 v2.0 eTeX basic definition package (PEB)
+    calc.sty    2007/08/22 v4.3 Infix arithmetic (KKT,FJ)
+ ifmtarg.sty    2009/09/02 v1.2a check for an empty argument
+etoolbox.sty    2011/01/03 v2.1 e-TeX tools for LaTeX
+   color.sty    2014/04/23 v1.1a Standard LaTeX Color (DPC)
+   color.cfg    2007/01/18 v1.5 color configuration of teTeX/TeXLive
+  ot1txr.fd    2000/12/15 v3.1
+ omltxmi.fd    2000/12/15 v3.1
+ omstxsy.fd    2000/12/15 v3.1
+ omxtxex.fd    2000/12/15 v3.1
+  utxmia.fd    2000/12/15 v3.1
+  utxsya.fd    2000/12/15 v3.1
+  utxsyb.fd    2000/12/15 v3.1
+  utxsyc.fd    2000/12/15 v3.1
+  utxexa.fd    2000/12/15 v3.1
+ ot1txtt.fd    2000/12/15 v3.1
+ ot1txss.fd    2000/12/15 v3.1
+        .
+No file _region_.aux.
+LaTeX Font Info:    Checking defaults for OML/txmi/m/it on input line 61.
+LaTeX Font Info:    ... okay on input line 61.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 61.
+LaTeX Font Info:    ... okay on input line 61.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 61.
+LaTeX Font Info:    ... okay on input line 61.
+LaTeX Font Info:    Checking defaults for OMS/txsy/m/n on input line 61.
+LaTeX Font Info:    ... okay on input line 61.
+LaTeX Font Info:    Checking defaults for OMX/txex/m/n on input line 61.
+LaTeX Font Info:    ... okay on input line 61.
+LaTeX Font Info:    Checking defaults for U/txexa/m/n on input line 61.
+LaTeX Font Info:    ... okay on input line 61.
+
+(/Applications/Aquamacs.app/Contents/Resources/lisp/aquamacs/edit-modes/auctex/
+latex/preview.sty
+Package: preview 2010/02/14 11.88 (AUCTeX/preview-latex)
+
+(/Applications/Aquamacs.app/Contents/Resources/lisp/aquamacs/edit-modes/auctex/
+latex/prtightpage.def
+\PreviewBorder=\dimen130
+)
+(/Applications/Aquamacs.app/Contents/Resources/lisp/aquamacs/edit-modes/auctex/
+latex/prauctex.def
+No auxiliary output files.
+
+
+\hbadness=\count128
+\hfuzz=\dimen131
+
+(/Applications/Aquamacs.app/Contents/Resources/lisp/aquamacs/edit-modes/auctex/
+latex/prauctex.cfg))
+(/Applications/Aquamacs.app/Contents/Resources/lisp/aquamacs/edit-modes/auctex/
+latex/prfootnotes.def)
+\pr@snippet=\count129
+\pr@box=\box54
+\pr@output=\toks28
+
+Preview: Fontsize 10pt
+Preview: PDFoutput 1
+) (/usr/local/texlive/2014/texmf-dist/tex/context/base/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count130
+\scratchdimen=\dimen132
+\scratchbox=\box55
+\nofMPsegments=\count131
+\nofMParguments=\count132
+\everyMPshowfont=\toks29
+\MPscratchCnt=\count133
+\MPscratchDim=\dimen133
+\MPnumerator=\count134
+\makeMPintoPDFobject=\count135
+\everyMPtoPDFconversion=\toks30
+) (/usr/local/texlive/2014/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
+Package: pdftexcmds 2011/11/29 v0.20 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(/usr/local/texlive/2014/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+(/usr/local/texlive/2014/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in PDF mode is detected.
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+(/usr/local/texlive/2014/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2010/08/19 v1.1 Manage graphics extensions (HO)
+
+(/usr/local/texlive/2014/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
+Package: kvdefinekeys 2011/04/07 v1.3 Define keys (HO)
+))
+(/usr/local/texlive/2014/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
+
+(/usr/local/texlive/2014/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
+Package: kvsetkeys 2012/04/25 v1.16 Key value parser (HO)
+
+(/usr/local/texlive/2014/texmf-dist/tex/generic/oberdiek/etexcmds.sty
+Package: etexcmds 2011/02/16 v1.5 Avoid name clashes with e-TeX commands (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
+Package grfext Info: Graphics extension search list:
+(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 452.
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+ !name(main.tex) !offset(-3)  (./abstract.tex) (./intro.tex
+! Preview: Snippet 1 started.
+<-><->
+      
+l.4 \section
+            {Introduction}
+Not a real error.
+
+Preview: Tightpage -32891 -32891 32891 32891
+! Preview: Snippet 1 ended.(539492+10617x15688950).
+<-><->
+      
+l.4 \section{Introduction}
+                          
+Not a real error.
+
+[1{/usr/local/texlive/2014/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+
+LaTeX Warning: Reference `tab:attributes' on page 1 undefined on input line 18.
+
+
+
+LaTeX Warning: Reference `data_mining' on page 1 undefined on input line 22.
+
+! Preview: Snippet 2 started.
+<-><->
+      
+l.30 \begin{figure}
+                   [htb]
+Not a real error.
+
+! Preview: Snippet 2 ended.(10302257+0x15688950).
+<-><->
+      
+l.61 \end{figure}
+                 
+Not a real error.
+
+[2
+
+]) (./background.tex
+! Preview: Snippet 3 started.
+<-><->
+      
+l.2 \section
+            {Background}
+Not a real error.
+
+! Preview: Snippet 3 ended.(539492+162005x15688950).
+<-><->
+      
+l.2 \section{Background}
+                        
+Not a real error.
+
+[3]
+! Preview: Snippet 4 started.
+<-><->
+      
+l.21 function, $
+                h(\theta)$, specific to the data under investigation. The va...
+
+Not a real error.
+
+! Preview: Snippet 4 ended.(442368+116326x1061028).
+<-><->
+      
+l.21 function, $h(\theta)$
+                          , specific to the data under investigation. The va...
+
+Not a real error.
+
+[4]
+! Preview: Snippet 5 started.
+<-><->
+      
+l.24 $
+      $J(\vec{\theta}) = \frac{1}{2m} [\sum_{i = 1}^{m} (y^{(i)} - h(\theta)...
+
+Not a real error.
+
+! Preview: Snippet 5 ended.(1954574+0x15688950).
+<-><->
+      
+l.24 ...sum_{i = 1}^{m} (y^{(i)} - h(\theta))^2]$$
+                                                  
+Not a real error.
+
+[5]
+! Preview: Snippet 6 started.
+<-><->
+      
+l.29 \subsection
+                {Regularization}
+Not a real error.
+
+! Preview: Snippet 6 ended.(492286+147829x15688950).
+<-><->
+      
+l.29 \subsection{Regularization}
+                                
+Not a real error.
+
+[6]
+! Preview: Snippet 7 started.
+<-><->
+      
+l.31 Our particular model uses $
+                                L_{2}$ Regularization, otherwise known as ri...
+
+Not a real error.
+
+! Preview: Snippet 7 ended.(428277+98303x642908).
+<-><->
+      
+l.31 Our particular model uses $L_{2}$
+                                       Regularization, otherwise known as ri...
+
+Not a real error.
+
+[7]
+! Preview: Snippet 8 started.
+<-><->
+      
+l.32 ...thus reduce drastic changes in the value $
+                                                  x_{2}$ based on changes in...
+
+Not a real error.
+
+! Preview: Snippet 8 ended.(289669+98303x585892).
+<-><->
+      
+l.32 ...educe drastic changes in the value $x_{2}$
+                                                   based on changes in $x_{1...
+
+Not a real error.
+
+[8]
+! Preview: Snippet 9 started.
+<-><->
+      
+l.32 ...in the value $x_{2}$ based on changes in $
+                                                  x_{1}$.\\
+Not a real error.
+
+! Preview: Snippet 9 ended.(289669+98303x585892).
+<-><->
+      
+l.32 ... value $x_{2}$ based on changes in $x_{1}$
+                                                  .\\
+Not a real error.
+
+[9]
+! Preview: Snippet 10 started.
+<-><->
+      
+l.36 $
+      $J(\vec{\theta}) = \frac{1}{2m} [\sum_{i = 1}^{m} (y^{(i)} - h(x^{(i)}...
+
+Not a real error.
+
+! Preview: Snippet 10 ended.(1954574+0x15688950).
+<-><->
+      
+l.36 ... h(x^{(i)})^2 + \alpha \| \theta ^ 2 \|]$$
+                                                  
+Not a real error.
+
+[10]
+! Preview: Snippet 11 started.
+<-><->
+      
+l.38 where $
+            \alpha$ represents the regard for complexity. A higher $\alpha$ ...
+
+Not a real error.
+
+! Preview: Snippet 11 ended.(289669+8191x388628).
+<-><->
+      
+l.38 where $\alpha$
+                    represents the regard for complexity. A higher $\alpha$ ...
+
+Not a real error.
+
+[11]
+! Preview: Snippet 12 started.
+<-><->
+      
+l.38 ...ents the regard for complexity. A higher $
+                                                  \alpha$ value
+Not a real error.
+
+! Preview: Snippet 12 ended.(289669+8191x388628).
+<-><->
+      
+l.38 ...e regard for complexity. A higher $\alpha$
+                                                   value
+Not a real error.
+
+[12]
+
+LaTeX Warning: Citation `scikit' on page 2 undefined on input line 40.
+
+
+LaTeX Warning: Reference `fig:fitting' on page 2 undefined on input line 47.
+
+! Preview: Snippet 13 started.
+<-><->
+      
+l.49 \begin{figure}
+                   [htb]
+Not a real error.
+
+<figs/fitting.png, id=47, 662.475pt x 278.03876pt>
+File: figs/fitting.png Graphic file (type png)
+ <use figs/fitting.png>
+Package pdftex.def Info: figs/fitting.png used on input line 55.
+(pdftex.def)             Requested size: 237.7689pt x 99.7884pt.
+
+! Preview: Snippet 13 ended.(8779425+0x15688950).
+<-><->
+      
+l.71 \end{figure}
+                 
+Not a real error.
+
+[13
+
+ <./figs/fitting.png>]
+! Preview: Snippet 14 started.
+<-><->
+      
+l.73 Another type of Regularization is known as $
+                                                 L_{1}$ Regularization. Whil...
+
+Not a real error.
+
+! Preview: Snippet 14 ended.(428277+98303x642908).
+<-><->
+      
+l.73 ...type of Regularization is known as $L_{1}$
+                                                   Regularization. While $L_...
+
+Not a real error.
+
+[14]
+! Preview: Snippet 15 started.
+<-><->
+      
+l.73 ...s known as $L_{1}$ Regularization. While $
+                                                  L_{2}$
+Not a real error.
+
+! Preview: Snippet 15 ended.(428277+98303x642908).
+<-><->
+      
+l.73 ...n as $L_{1}$ Regularization. While $L_{2}$
+                                                  
+Not a real error.
+
+[15]
+! Preview: Snippet 16 started.
+<-><->
+      
+l.74 Regularization squares the value of the $
+                                              \theta$ value, $L_{1}$ takes t...
+
+Not a real error.
+
+! Preview: Snippet 16 ended.(428277+8191x296878).
+<-><->
+      
+l.74 ...rization squares the value of the $\theta$
+                                                   value, $L_{1}$ takes the ...
+
+Not a real error.
+
+[16]
+! Preview: Snippet 17 started.
+<-><->
+      
+l.74 ...squares the value of the $\theta$ value, $
+                                                  L_{1}$ takes the absolute
+Not a real error.
+
+! Preview: Snippet 17 ended.(428277+98303x642908).
+<-><->
+      
+l.74 ...s the value of the $\theta$ value, $L_{1}$
+                                                   takes the absolute
+Not a real error.
+
+[17]
+! Preview: Snippet 18 started.
+<-><->
+      
+l.75 value of $
+               \theta$ and multiplies it by $\alpha$. This is reprinted by t...
+
+Not a real error.
+
+! Preview: Snippet 18 ended.(428277+8191x296878).
+<-><->
+      
+l.75 value of $\theta$
+                       and multiplies it by $\alpha$. This is reprinted by t...
+
+Not a real error.
+
+[18]
+! Preview: Snippet 19 started.
+<-><->
+      
+l.75 value of $\theta$ and multiplies it by $
+                                             \alpha$. This is reprinted by t...
+
+Not a real error.
+
+! Preview: Snippet 19 ended.(289669+8191x388628).
+<-><->
+      
+l.75 ... of $\theta$ and multiplies it by $\alpha$
+                                                  . This is reprinted by the...
+
+Not a real error.
+
+[19]
+! Preview: Snippet 20 started.
+<-><->
+      
+l.76 $
+      $J(\vec{\theta}) = \frac{1}{2m} [\sum_{i = 1}^{m} (y^{(i)} - h(x^{(i)}...
+
+Not a real error.
+
+! Preview: Snippet 20 ended.(1954574+0x15688950).
+<-><->
+      
+l.76 ...)} - h(x^{(i)})^2 + \alpha \| \theta \|]$$
+                                                  
+Not a real error.
+
+[20]
+! Preview: Snippet 21 started.
+<-><->
+      
+l.78 used with $
+                L_{1}$ since all parameters would shrink to a small size. Th...
+
+Not a real error.
+
+! Preview: Snippet 21 ended.(428277+98303x642908).
+<-><->
+      
+l.78 used with $L_{1}$
+                       since all parameters would shrink to a small size. Th...
+
+Not a real error.
+
+[21]
+! Preview: Snippet 22 started.
+<-><->
+      
+l.79 ...s that it is a sparse model. Some of the $
+                                                  \theta$ values shrink to 0...
+
+Not a real error.
+
+! Preview: Snippet 22 ended.(428277+8191x296878).
+<-><->
+      
+l.79 ...it is a sparse model. Some of the $\theta$
+                                                   values shrink to 0, meani...
+
+Not a real error.
+
+[22]
+! Preview: Snippet 23 started.
+<-><->
+      
+l.79 ...es shrink to 0, meaning only some of the $
+                                                  \theta$ weights will be av...
+
+Not a real error.
+
+! Preview: Snippet 23 ended.(428277+8191x296878).
+<-><->
+      
+l.79 ...nk to 0, meaning only some of the $\theta$
+                                                   weights will be averaged.
+Not a real error.
+
+[23]
+
+LaTeX Warning: Citation `scikit' on page 2 undefined on input line 83.
+
+! Preview: Snippet 24 started.
+<-><->
+      
+l.85 \subsection
+                {Cross-Validation}
+Not a real error.
+
+! Preview: Snippet 24 ended.(492286+12558x15688950).
+<-><->
+      
+l.85 \subsection{Cross-Validation}
+                                  
+Not a real error.
+
+[24]
+! Preview: Snippet 25 started.
+<-><->
+      
+l.95 \subsection
+                {Grid-Search versus Randomized-Search}
+Not a real error.
+
+! Preview: Snippet 25 ended.(492286+12558x15688950).
+<-><->
+      
+l.95 ...tion{Grid-Search versus Randomized-Search}
+                                                  
+Not a real error.
+
+[25]
+
+LaTeX Warning: Citation `scikit' on page 2 undefined on input line 99.
+
+
+LaTeX Warning: Citation `scikit' on page 2 undefined on input line 106.
+
+) (./experiments.tex
+! Preview: Snippet 26 started.
+<-><->
+      
+l.2 \section
+            {Experiments}
+Not a real error.
+
+! Preview: Snippet 26 ended.(539492+161218x15688950).
+<-><->
+      
+l.2 \section{Experiments}
+                         
+Not a real error.
+
+[26]
+
+LaTeX Warning: Reference `:' on page 2 undefined on input line 7.
+
+
+LaTeX Warning: Reference `wine' on page 2 undefined on input line 7.
+
+
+LaTeX Warning: Citation `scikit' on page 2 undefined on input line 16.
+
+! Preview: Snippet 27 started.
+<-><->
+      
+l.22  $
+       \alpha$ ranging from $10^{-6}$ to $10^{3}$. Rather than using
+Not a real error.
+
+! Preview: Snippet 27 ended.(289669+8191x388628).
+<-><->
+      
+l.22  $\alpha$
+               ranging from $10^{-6}$ to $10^{3}$. Rather than using
+Not a real error.
+
+[27]
+! Preview: Snippet 28 started.
+<-><->
+      
+l.22  $\alpha$ ranging from $
+                             10^{-6}$ to $10^{3}$. Rather than using
+Not a real error.
+
+! Preview: Snippet 28 ended.(550993+8846x1209270).
+<-><->
+      
+l.22  $\alpha$ ranging from $10^{-6}$
+                                      to $10^{3}$. Rather than using
+Not a real error.
+
+[28]
+! Preview: Snippet 29 started.
+<-><->
+      
+l.22  $\alpha$ ranging from $10^{-6}$ to $
+                                          10^{3}$. Rather than using
+Not a real error.
+
+! Preview: Snippet 29 ended.(544799+8846x917504).
+<-><->
+      
+l.22  $\alpha$ ranging from $10^{-6}$ to $10^{3}$
+                                                 . Rather than using
+Not a real error.
+
+[29]) (./results.tex
+! Preview: Snippet 30 started.
+<-><->
+      
+l.3 \section
+            {Results}
+Not a real error.
+
+! Preview: Snippet 30 ended.(539492+10617x15688950).
+<-><->
+      
+l.3 \section{Results}
+                     
+Not a real error.
+
+[30]
+! Preview: Snippet 31 started.
+<-><->
+      
+l.6 ...r experiments, we concluded that the best $
+                                                  \alpha$ value was 0.0001
+Not a real error.
+
+! Preview: Snippet 31 ended.(289669+8191x388628).
+<-><->
+      
+l.6 ...iments, we concluded that the best $\alpha$
+                                                   value was 0.0001
+Not a real error.
+
+[31]
+! Preview: Snippet 32 started.
+<-><->
+      
+l.8 This $
+          \alpha$ value gave us a coefficient of determination of 0.23 for b...
+
+Not a real error.
+
+! Preview: Snippet 32 ended.(289669+8191x388628).
+<-><->
+      
+l.8 This $\alpha$
+                  value gave us a coefficient of determination of 0.23 for b...
+
+Not a real error.
+
+[32]
+! Preview: Snippet 33 started.
+<-><->
+      
+l.9 This value is also referred to as $
+                                       R^2$.
+Not a real error.
+
+! Preview: Snippet 33 ended.(544799+0x662569).
+<-><->
+      
+l.9 This value is also referred to as $R^2$
+                                           .
+Not a real error.
+
+[33]
+! Preview: Snippet 34 started.
+<-><->
+      
+l.11 When the $
+               R^2$ value is 0, the wine
+Not a real error.
+
+! Preview: Snippet 34 ended.(544799+0x662569).
+<-><->
+      
+l.11 When the $R^2$
+                    value is 0, the wine
+Not a real error.
+
+[34]
+! Preview: Snippet 35 started.
+<-><->
+      
+l.17 just reporting the mean because our $
+                                          R^2$ value was not negative.
+Not a real error.
+
+! Preview: Snippet 35 ended.(544799+0x662569).
+<-><->
+      
+l.17 just reporting the mean because our $R^2$
+                                               value was not negative.
+Not a real error.
+
+[35]
+! Preview: Snippet 36 started.
+<-><->
+      
+l.21 $
+      R^2$ score of the randomized search data can be viewed in Fig \ref{AvS}.
+Not a real error.
+
+! Preview: Snippet 36 ended.(544799+0x662569).
+<-><->
+      
+l.21 $R^2$
+           score of the randomized search data can be viewed in Fig \ref{AvS}.
+Not a real error.
+
+[36]
+
+LaTeX Warning: Reference `AvS' on page 2 undefined on input line 21.
+
+! Preview: Snippet 37 started.
+<-><->
+      
+l.23 \begin{figure}
+                   [htb]
+Not a real error.
+
+<figs/AvS.png, id=127, 362.7954pt x 205.2468pt>
+File: figs/AvS.png Graphic file (type png)
+ <use figs/AvS.png>
+Package pdftex.def Info: figs/AvS.png used on input line 31.
+(pdftex.def)             Requested size: 237.7689pt x 134.51749pt.
+
+! Preview: Snippet 37 ended.(10334534+0x15688950).
+<-><->
+      
+l.46 \end{figure}
+                 
+Not a real error.
+
+[37
+
+ <./figs/AvS.png>]
+
+LaTeX Warning: Reference `AvE' on page 2 undefined on input line 50.
+
+! Preview: Snippet 38 started.
+<-><->
+      
+l.52 \begin{figure}
+                   [htb]
+Not a real error.
+
+<figs/AvE.png, id=133, 362.3136pt x 203.8014pt>
+File: figs/AvE.png Graphic file (type png)
+ <use figs/AvE.png>
+Package pdftex.def Info: figs/AvE.png used on input line 60.
+(pdftex.def)             Requested size: 237.7689pt x 133.74432pt.
+
+! Preview: Snippet 38 ended.(10283864+0x15688950).
+<-><->
+      
+l.75 \end{figure}
+                 
+Not a real error.
+
+[38
+
+ <./figs/AvE.png>]
+! Preview: Snippet 39 started.
+<-><->
+      
+l.79 $
+      R^2$ score of the lasso randomized search data can be viewed in Fig \r...
+
+Not a real error.
+
+! Preview: Snippet 39 ended.(544799+0x662569).
+<-><->
+      
+l.79 $R^2$
+           score of the lasso randomized search data can be viewed in Fig \r...
+
+Not a real error.
+
+[39]
+
+LaTeX Warning: Reference `LassoAvS' on page 2 undefined on input line 79.
+
+! Preview: Snippet 40 started.
+<-><->
+      
+l.81 \begin{figure}
+                   [htb]
+Not a real error.
+
+<figs/LassoAvS.png, id=141, 362.3136pt x 217.7736pt>
+File: figs/LassoAvS.png Graphic file (type png)
+ <use figs/LassoAvS.png>
+Package pdftex.def Info: figs/LassoAvS.png used on input line 89.
+(pdftex.def)             Requested size: 237.7689pt x 142.91356pt.
+
+! Preview: Snippet 40 ended.(10884779+0x15688950).
+<-><->
+      
+l.104 \end{figure}
+                  
+Not a real error.
+
+[40
+
+ <./figs/LassoAvS.png>]
+
+LaTeX Warning: Reference `LassoAvE' on page 2 undefined on input line 108.
+
+! Preview: Snippet 41 started.
+<-><->
+      
+l.110  \begin{figure}
+                     [htb]
+Not a real error.
+
+<figs/LassoAvE.png, id=146, 362.7954pt x 218.2554pt>
+File: figs/LassoAvE.png Graphic file (type png)
+ <use figs/LassoAvE.png>
+Package pdftex.def Info: figs/LassoAvE.png used on input line 118.
+(pdftex.def)             Requested size: 237.7689pt x 143.04324pt.
+
+! Preview: Snippet 41 ended.(10893278+0x15688950).
+<-><->
+      
+l.133 \end{figure}
+                  
+Not a real error.
+
+[41
+
+ <./figs/LassoAvE.png>]) (./conclusion.tex
+! Preview: Snippet 42 started.
+<-><->
+      
+l.2 \section
+            {Conclusions}
+Not a real error.
+
+! Preview: Snippet 42 ended.(539492+13762x15688950).
+<-><->
+      
+l.2 \section{Conclusions}
+                         
+Not a real error.
+
+[42]
+! Preview: Snippet 43 started.
+<-><->
+      
+l.8 $
+     R^2$ score was greater than 0, meaning that our model was learning
+Not a real error.
+
+! Preview: Snippet 43 ended.(544799+0x662569).
+<-><->
+      
+l.8 $R^2$
+          score was greater than 0, meaning that our model was learning
+Not a real error.
+
+[43]) (./contributions.tex
+! Preview: Snippet 44 started.
+<-><->
+      
+l.2 \section
+            {Contributions}
+Not a real error.
+
+! Preview: Snippet 44 ended.(539492+13762x15688950).
+<-><->
+      
+l.2 \section{Contributions}
+                           
+Not a real error.
+
+[44]) (./ack.tex
+! Preview: Snippet 45 started.
+<-><->
+      
+l.2 \section
+            {Acknowledgements}
+Not a real error.
+
+! Preview: Snippet 45 ended.(526515+162005x15688950).
+<-><->
+      
+l.2 \section{Acknowledgements}
+                              
+Not a real error.
+
+[45])
+No file _region_.bbl.
+
+LaTeX Warning: There were undefined references.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 900 strings out of 489236
+ 14309 string characters out of 6084172
+ 134409 words of memory out of 5000000
+ 8046 multiletter control sequences out of 15000+600000
+ 27881 words of font info for 67 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 38i,12n,23p,704b,335s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/local/texlive/2014/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/t
+exlive/2014/texmf-dist/fonts/type1/public/txfonts/rtxmi.pfb></usr/local/texlive
+/2014/texmf-dist/fonts/type1/public/txfonts/rtxr.pfb></usr/local/texlive/2014/t
+exmf-dist/fonts/type1/public/txfonts/txex.pfb></usr/local/texlive/2014/texmf-di
+st/fonts/type1/public/txfonts/txsy.pfb></usr/local/texlive/2014/texmf-dist/font
+s/type1/public/txfonts/txtt.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1
+/urw/times/utmb8a.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/urw/times
+/utmr8a.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/urw/times/utmri8a.p
+fb>
+Output written on _region_.pdf (45 pages, 201151 bytes).
+PDF statistics:
+ 195 PDF objects out of 1000 (max. 8388607)
+ 128 compressed objects within 2 object streams
+ 0 named destinations out of 1000 (max. 500000)
+ 26 words of extra memory for PDF output out of 10000 (max. 10000000)
+
